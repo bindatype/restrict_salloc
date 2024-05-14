@@ -1,0 +1,4 @@
+0: 384gb, altus_amnis
+2507: debug, debug-cpu, debug-gpu
+1007: secret
+1008: large-gpu

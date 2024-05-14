@@ -1,0 +1,23 @@
+# Comment out partitions on which you wish to disallow salloc 
+#384gb
+ait
+altus_amnis
+#awscpu
+#awsgpu*
+debug
+debug-cpu
+debug-gpu
+#defq
+deus
+#graphical
+#highMem
+#highThru
+#large-gpu
+#med-gpu
+nano
+secret
+short
+short-384gb
+#small-gpu
+tiny
+#ultra-gpu
